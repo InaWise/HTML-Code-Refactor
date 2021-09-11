@@ -15,7 +15,7 @@
 
 ## Description
 
-Challenge this week builds a Node.js command-line application
+Challenge this week, a marketing agency has hired me to refactor an existing site to make it more accessible. Html, and CSS
 
 ## Site
 [live site](https://inawise.github.io/Horiseon-code/)
